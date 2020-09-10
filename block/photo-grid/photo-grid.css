@@ -1,0 +1,14 @@
+@import url(./__image/photo-grid__image.css);
+
+.photo-grid{
+    max-width: 928px;
+    height: 942px;
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 225px 225px 225px 225px;
+    gap: 14px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 92px;
+}
