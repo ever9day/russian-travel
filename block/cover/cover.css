@@ -4,8 +4,12 @@
 @import url(./__image/cover__image.css);
 
 .cover {
+<<<<<<< HEAD
     outline: 1px solid red;
     background-image: url("https://s3-alpha-sig.figma.com/img/3240/dbd8/17fd58b80f252855d51020659c1e65e8?Expires=1600646400&Signature=U93FJer3pfLaJCe76HZi4ZW1XDLLe8ZyUNLg0jKDSY91OLDmOzmERuBHkJ8-eDv8dIKsDq8uqeUVGZX82euGPc8RDHDTmzICTc3qOeJhDQ32nFHfHsUEK5lX6d7rdzU~GjvKpfYPxW4n5W834BI9xW-qeL9keGdFZtHaCKeorkofTCSqdYOnDpluy2uy9HBICXtdxGhKjqinHno521CNvOMuMUgNjfdwL-X3wwNt~kNZ9WW9ugXczsrg~s7kLz9L1jmNmIAqHvGeU0T28ybUBXo8m1OlkL~N9WVMRRf09ZPB7LpdXE7VQT2t8Zr-4rlFFPUSVpDZjorvJW2yd1N6Bw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+=======
+    background-image: url("../../photo/17fd58b80f252855d51020659c1e65e8.jpg");
+>>>>>>> d1fdd47242a7568ea12cbd2f5305e2d613f1a618
     background-size: cover;
     max-width: 1024px;
     height: 640px;
@@ -14,3 +18,10 @@
     margin-right: auto;
     margin-left: auto;
 }
+<<<<<<< HEAD
+=======
+
+.cover:hover{
+    opacity: 0.8;
+}
+>>>>>>> d1fdd47242a7568ea12cbd2f5305e2d613f1a618
