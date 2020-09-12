@@ -1,9 +1,16 @@
 .cover__link {
+    outline: 1px solid red;
     text-decoration: none;
-    width: 1184px;
-    height: 740px;
+    width: 1024px;
+    height: 640px;
+
+}
+
+.cover__link::before{
+    opacity: 0.8;
+    z-index: -1;
 }
 
 .cover__link:hover{
-    opacity: 0.8;
+    opacity: 0.5;
 }
